@@ -15,7 +15,7 @@ signals:
 
 protected:
     void closeEvent(QCloseEvent *event);
-
+    void contextMenuEvent(QContextMenuEvent *event);
 
 };
 
